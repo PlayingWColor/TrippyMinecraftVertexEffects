@@ -1,3 +1,3 @@
-# Simple Outline Shaders
+# Trippy Minecraft Vertex Shaders
 
-A simple outline shader for Minecraft.
+Shaders that utilize the vertex shaders to create trippy effects.
